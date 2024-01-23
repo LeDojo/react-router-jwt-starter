@@ -5,6 +5,7 @@ export default function Login() {
   const [password, setPassword] = useState("");
 
   // Implement login method in AuthContext and use it here
+  const submitUser = () => {};
 
   return (
     <>
